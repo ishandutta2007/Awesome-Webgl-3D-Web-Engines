@@ -74,7 +74,7 @@ Below is a curated breakdown of prominent commercial SaaS platforms, cloud asset
 
 ## 🐙 Open-Source GitHub Projects
 
-The open-source 3D web ecosystem provides total rendering control, uncompromised performance customization, and immunity to proprietary vendor lock-in. Below are the leading open-source repositories, **sorted descending by GitHub Stars Count**.
+The open-source 3D web ecosystem provides total rendering control, uncompromised performance customization, and immunity to proprietary vendor lock-in. Below are the leading open-source repositories, **sorted descending by GitHub_Stars_Count**.
 
 ### 1. [Three.js](https://github.com/mrdoob/three.js) [![Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers)
 - **Primary Language**: JavaScript | **License**: MIT
@@ -181,7 +181,7 @@ We welcome contributions from graphics engineers, 3D artists, and web developers
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-engine-name`).
 3. 📝 **Add or Update Entries** in `README.md` following the established structure:
    - For SaaS: Name, link, company scale/valuation, specific starting price, precise free tier/trial limit, and key strengths.
-   - For Open-Source: Name, GitHub repository link, Stars Badge (`style=social&color=white` linking to stargazers), language, license, and concise technical summary.
+   - For Open-Source: Name, GitHub repository link, Stars_Badge (`style=social&color=white` linking to stargazers), language, license, and concise technical summary.
 4. 🧪 **Verify Markdown Rendering and Links** to ensure clean table alignment and active URLs.
 5. 🚀 **Submit a Pull Request** describing your additions and architectural rationale.
 
